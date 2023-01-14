@@ -1,4 +1,4 @@
-# NutriPuc - Projeto inicial (Front-end com HTML, CSS e JS)
+# Projeto NutriPuc - Front-end inicial
   O projeto NutriPuc foi desenvolvido em Grupo, no primeiro período do curso Tecnologia em Sistemas para Internet da Puc Minas.
 
   Essa Aplicação foi desenvolvida para Nutricionistas e Pacientes, com o objetivo de auxiliar na elaboração e acompanhamento de Planos Alimentares. Possibilitando um acompanhamento mais próximo entre as duas partes, e maior aderência do Plano Alimentar por parte do Paciente.
