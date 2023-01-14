@@ -12,7 +12,9 @@
   - O acesso da plataforma pelo Paciente, só é liberada depois que o Nutricionista cria um cadastro para o mesmo;
   
   - No Dashboard do Paciente é possível gerir suas Informações Pessoais, acessar seus Planos Alimentares e acompanhar o seu Progresso.
-
+  
+  Você pode acessá-lo <a href="https://johntvale.github.io/nutripuc/">clicando aqui :rocket:</a>
+  
 ---
 
 ### Habilidades desenvolvidas
